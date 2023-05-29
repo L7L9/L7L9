@@ -2,7 +2,7 @@
 # Hi,I'm Li Qilong!🙂
  - 🏫I'm a college student from GDUT.
  - 🧐I'm interested in backend and blockchain.
- - 📫Contract me: email👉1964757607@qq.com
+ - 📫Contact me: email👉1964757607@qq.com
 <!-- ### Languages And Tools -->
 
 
